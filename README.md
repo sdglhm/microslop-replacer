@@ -4,7 +4,6 @@ A Chrome extension that automatically replaces all occurrences of **“Microsoft
 
 This project was created as a direct response to public discourse around the term *“AI slop”* — including commentary on how the word *slop* was used in discussions of AI-generated content and corporate responses to that perception (e.g., calling out how technology leaders react to criticism of *slop* in AI outputs).([Futurism][1])
 
----
 
 ## 🧠 Why this exists
 
@@ -14,7 +13,6 @@ This extension playfully applies that sentiment by transforming every instance o
 
 ⚠️ **Note:** This tool is intended as a personal/experimental project and not affiliated with Microsoft or any official product.
 
----
 
 ## 🧩 Features
 
@@ -23,7 +21,6 @@ This extension playfully applies that sentiment by transforming every instance o
 * Case-sensitive replacement (upper and lower forms handled)
 * Does **not** touch input fields, code blocks, or editable content
 
----
 
 ## 🔐 Legal & Licensing
 
@@ -35,7 +32,6 @@ This repository is intentionally **locked down** under the **Immutable Repositor
 
 See the **LICENSE** file for full terms.
 
----
 
 ## 🛠 Installation
 
@@ -45,13 +41,11 @@ See the **LICENSE** file for full terms.
 4. Click **Load unpacked** and select this project folder.
 5. Pin the extension to your toolbar if desired.
 
----
 
 ## 🧪 Example
 
 After installation, any page containing “Microsoft” will display **Microslop** instead — including article text, menus, and other on-page content.
 
----
 
 ## ⚖️ Disclaimer
 
