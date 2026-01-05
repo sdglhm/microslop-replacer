@@ -1,3 +1,5 @@
+![Microslop Logo](icons/128.png)
+
 # 📦 Microslop Replacer
 
 A Chrome extension that automatically replaces all occurrences of **“Microsoft”** with **“Microslop”** on web pages.
